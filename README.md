@@ -1,3 +1,3 @@
 # LittleGame
-The Fighting Plane
-一个飞机大战小游戏。
+The Fighting Plane.
+涓�涓鏈哄ぇ鎴樺皬娓告垙
